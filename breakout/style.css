@@ -1,0 +1,10 @@
+canvas { 
+	background: rgba(5, 77, 113, 0.9); 
+	display: block; 
+	margin: 0 auto; 
+}
+
+body {
+	margin-top: 7%;
+	background-image: url("https://images.unsplash.com/photo-1533735380053-eb8d0759b24a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b6c91dd4491a38ca85d59fe60af61513&auto=format&fit=crop&w=1873&q=80");
+}

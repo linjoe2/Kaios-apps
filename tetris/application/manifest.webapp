@@ -1,0 +1,13 @@
+{
+  "name": "tetris",
+  "description": "A simple tetris remake",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icons/tetris.png",
+    "128": "/icons/tetris2.png"
+  },
+  "developer": {
+    "name": "Lindsey Schaap",
+    "url": "http://lindseyschaap.nl"
+  }
+}

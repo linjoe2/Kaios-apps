@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Tetris</title>
+    <style media="screen">
+      body{
+        background: #202028;
+        color:#fff;
+        font-family:sans-serif;
+        font-size: 5vh;
+        text-align: center;
+      	z-index: 0;
+      }
+      canvas{
+        border:solid .2em #fff;
+        height: 88vh;
+      }
+      .score {
+      	z-index: 2;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="score">
+    </div>
+    <canvas id="tetris" width="240" height="400"></canvas>
+    <script src="tetris.js">
+
+    </script>
+  </body>
+</html>
